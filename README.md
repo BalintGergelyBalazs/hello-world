@@ -1,3 +1,6 @@
 # hello-world
- Első feladat
- Halo
+ -Első feladat
+ -Halo
+
+ # About me
++ my name is Mona
